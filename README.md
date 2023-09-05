@@ -2,7 +2,7 @@
 
 Generate emoji table for your lua module.
 
-Emoji names match the name used by Github.
+Github's emoji naming rule is used. (using github api)
 ---
 to generate lua module, run `python3 src/generate.py`
 
