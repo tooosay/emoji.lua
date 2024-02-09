@@ -6,7 +6,7 @@ Github's emoji naming rule is used. (using github api)
 ---
 to generate lua module, run `python3 src/generate.py`
 
-👍 👍 👍 👍 👍 👍 👍 👍 👍 👍 👍 👍
+👍 👍 👍 👍 👍 👍 👍 👍 👍 👍 👍 👍🎃
 ## example
 ```lua 
 local emoji = require("emoji")
